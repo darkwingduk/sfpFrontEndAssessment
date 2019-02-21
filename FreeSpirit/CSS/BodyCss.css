@@ -1,0 +1,248 @@
+@media (min-width: 749px) {
+    .mobilePhoneImage{
+        height:100%;
+        width:auto;
+        margin:0 auto;
+    }
+}
+
+
+@media (min-width: 750px) {
+    .spiritText{
+        text-align:center;
+        color:black;
+        font-size:64px;
+        position:relative;
+        font-family: 'Lato Thin', sans-serif;
+        font-weight:100;
+    }
+    .spiritDiv{
+
+    }
+    .subSpiritDiv{
+        margin-top:-45px;
+    }
+    .subSpiritP{
+        text-align:center;
+        font-family: 'Lato', sans-serif;
+        width:100%;
+        margin:0 auto;
+        color:#898989;
+        font-size: 16px;
+    }
+    .iconCol{
+        float:left;
+        width:30%;
+    }
+    .iconEmptyCol{
+        float:left;
+        width:5%
+    }
+    .iconDiv{
+        text-align: center;
+        padding-top:55px;
+    }
+    .iconImg{
+        width:30%;
+    }
+    .iconHeaderText{
+        font-weight:bold;
+        font-family: 'Lato', sans-serif;
+        font-size:16px;
+    }
+    .iconSubText{
+        margin:0 auto;
+        width:95%;
+        font-family: 'Lato', sans-serif;
+        font-size:16px;
+        color:#898989;
+    }
+    .adventureDiv{
+        text-align: center;
+    }
+    .adventureImgCol{
+        float:left;
+        width:18%;
+    }
+    .adeventureEmptyDiv{
+        float:left;
+        width:23%;
+    }
+    .adventureImg{
+        width:145px;
+        height:167.5px;
+    }
+    .lowerAdventureDiv{
+        padding-top:150px;
+    }
+    .lowerAdventureSubDiv{
+        padding-top:25px;
+    }
+    .higherAdventureDiv{
+        padding-top:75px;
+    }
+    .higherAdventureSubDiv{
+        padding-top:25px;
+    }
+}
+
+
+@media (min-width: 1200px) {
+    .spiritText{
+        text-align:center;
+        color:black;
+        font-size:72px;
+        position:relative;
+        font-family: 'Lato Thin', sans-serif;
+        font-weight:100;
+    }
+    .spiritDiv{
+
+    }
+    .subSpiritDiv{
+        margin-top:-45px;
+    }
+    .subSpiritP{
+        text-align:center;
+        font-family: 'Lato', sans-serif;
+        width:80%;
+        margin:0 auto;
+        color:#898989;
+        font-size: 16px;
+    }
+    .iconCol{
+        float:left;
+        width:25%;
+    }
+    .iconEmptyCol{
+        float:left;
+        width:12.5%
+    }
+    .iconDiv{
+        text-align: center;
+        padding-top:75px;
+    }
+    .iconImg{
+        width:30%;
+    }
+    .iconHeaderText{
+        font-weight:bold;
+        font-family: 'Lato', sans-serif;
+        font-size:16px;
+    }
+    .iconSubText{
+        margin:0 auto;
+        width:90%;
+        font-family: 'Lato', sans-serif;
+        font-size:16px;
+        color:#898989;
+    }
+    .adventureDiv{
+        text-align: center;
+    }
+    .adventureImgCol{
+        float:left;
+        width:20%;
+    }
+    .adeventureEmptyDiv{
+        float:left;
+        width:20%;
+    }
+    .adventureImg{
+        width:217.5;
+        height:251.25px;
+    }
+    .lowerAdventureDiv{
+        padding-top:150px;
+    }
+    .lowerAdventureSubDiv{
+        padding-top:25px;
+    }
+    .higherAdventureDiv{
+        padding-top:75px;
+    }
+    .higherAdventureSubDiv{
+        padding-top:25px;
+    }
+}
+
+
+@media (min-width: 1768px) {
+    .spiritText{
+        text-align:center;
+        color:black;
+        font-size:72px;
+        position:relative;
+        font-family: 'Lato Thin', sans-serif;
+        font-weight:100;
+    }
+    .spiritDiv{
+        padding-top:75px;
+    }
+    .subSpiritDiv{
+        margin-top:-45px;
+    }
+    .subSpiritP{
+        text-align:center;
+        font-family: 'Lato', sans-serif;
+        width:55%;
+        margin:0 auto;
+        color:#898989;
+        font-size: 16px;
+    }
+    .iconCol{
+        float:left;
+        width:16%;
+    }
+    .iconEmptyCol{
+        float:left;
+        width:26%
+    }
+    .iconDiv{
+        text-align: center;
+        padding-top:100px;
+    }
+    .iconImg{
+        width:30%;
+    }
+    .iconHeaderText{
+        font-weight:bold;
+        font-family: 'Lato', sans-serif;
+        font-size:16px;
+    }
+    .iconSubText{
+        margin:0 auto;
+        width:91%;
+        font-family: 'Lato', sans-serif;
+        font-size:16px;
+        color:#898989;
+    }
+    .adventureDiv{
+        text-align: center;
+        padding-top:250px;
+    }
+    .adventureImgCol{
+        float:left;
+        width:18%;
+    }
+    .adeventureEmptyDiv{
+        float:left;
+        width:23%;
+    }
+    .adventureImg{
+        width:290px;
+        height:335px;
+    }
+    .lowerAdventureDiv{
+        padding-top:150px;
+    }
+    .lowerAdventureSubDiv{
+        padding-top:25px;
+    }
+    .higherAdventureDiv{
+        padding-top:75px;
+    }
+    .higherAdventureSubDiv{
+        padding-top:25px;
+    }
+}

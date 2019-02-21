@@ -1,0 +1,158 @@
+
+@media (max-width:322px)
+{
+    .mobilePhoneDiv{
+        height:100%;
+        width: auto;
+    }
+    .mobilePhoneImage{
+        height:383px;
+        width: 262px;
+    }
+    .discoverP{
+        font-family: 'Lato Thin', sans-serif;
+        font-size:32px;
+        color:white;
+        margin-top:-65px;
+        margin-left:10px;
+    }
+
+    .adventureLink{
+        font-weight:bold;
+        font-family: 'Lato Thin', sans-serif;
+        font-size:16px;
+        color:white;
+    }
+
+    .adventureP{
+        margin-top:-35px;
+        margin-left: 90px;
+    }
+
+    .arrow1 {
+        margin-left: 10px;
+        margin-bottom: 2px;
+        width: 0.3em;
+        height: 0.3em;
+        border-right: 0.1em solid orange;
+        border-top: 0.1em solid orange;
+        transform: rotate(45deg);
+        display: inline-block;
+        margin-right: -3px;
+    }
+
+    .arrow2 {
+        margin-bottom: 2px;
+        width: 0.3em;
+        height: 0.3em;
+        border-right: 0.1em solid orange;
+        border-top: 0.1em solid orange;
+        transform: rotate(45deg);
+        display: inline-block;
+    }
+}
+
+@media (min-width: 323px) and (max-width: 499px) {
+    .mobilePhoneDiv{
+        height:100%;
+        width: auto;
+    }
+    .mobilePhoneImage{
+        height:479.5px;
+        width: 327.5px;
+    }
+    .discoverP{
+        font-family: 'Lato Thin', sans-serif;
+        font-size:42px;
+        color:white;
+        margin-top:-80px;
+        margin-left:15px;
+    }
+
+    .adventureLink{
+        font-weight:bold;
+        font-family: 'Lato Thin', sans-serif;
+        font-size:18px;
+        color:white;
+    }
+
+    .adventureP{
+        margin-top:-50px;
+        margin-left: 125px;
+    }
+
+    .arrow1 {
+        margin-left: 10px;
+        margin-bottom: 2px;
+        width: 0.3em;
+        height: 0.3em;
+        border-right: 0.1em solid orange;
+        border-top: 0.1em solid orange;
+        transform: rotate(45deg);
+        display: inline-block;
+        margin-right: -3px;
+    }
+
+    .arrow2 {
+        margin-bottom: 2px;
+        width: 0.3em;
+        height: 0.3em;
+        border-right: 0.1em solid orange;
+        border-top: 0.1em solid orange;
+        transform: rotate(45deg);
+        display: inline-block;
+    }
+
+}
+@media (min-width:500px) and (max-width: 749px) {
+    .mobilePhoneDiv{
+        height:100%;
+        width: auto;
+    }
+    .mobilePhoneImage{
+        height:719px;
+        width: 491;
+    }
+    .discoverP{
+        font-family: 'Lato Thin', sans-serif;
+        font-size:62px;
+        color:white;
+        margin-top:-120px;
+        margin-left:15px;
+    }
+
+    .adventureLink{
+        font-weight:bold;
+        font-family: 'Lato Thin', sans-serif;
+        font-size:30px;
+        color:white;
+    }
+
+    .adventureP{
+        margin-top:-70px;
+        margin-left: 175px;
+    }
+
+    .arrow1 {
+        margin-left: 10px;
+        margin-bottom: 4px;
+        width: 0.3em;
+        height: 0.3em;
+        border-right: 0.1em solid orange;
+        border-top: 0.1em solid orange;
+        transform: rotate(45deg);
+        display: inline-block;
+        margin-right: -3px;
+    }
+
+    .arrow2 {
+        margin-bottom: 4px;
+        width: 0.3em;
+        height: 0.3em;
+        border-right: 0.1em solid orange;
+        border-top: 0.1em solid orange;
+        transform: rotate(45deg);
+        display: inline-block;
+    }
+
+}

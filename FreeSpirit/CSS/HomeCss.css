@@ -1,0 +1,48 @@
+@media (max-width: 749px) {
+    #footer{
+        display:none;
+    }
+    #header{
+        display:none;
+    }
+    #normalBody{
+        display:none;
+    }
+
+}
+
+
+@media (min-width: 750px) {
+    body{
+        width: 900px;
+        margin: 0 auto;
+        position: relative;
+    }
+    #mobileBody{
+        display:none;
+    }
+}
+
+
+@media (min-width: 1200px) {
+    body{
+        width: 1200px;
+        margin: 0 auto;
+        position: relative;
+    }
+    #mobileBody{
+        display:none;
+    }
+}
+
+
+@media (min-width: 1768px) {
+    body{
+        width: 1751px;
+        margin: 0 auto;
+        position: relative;
+    }
+    #mobileBody{
+        display:none;
+    }
+}
